@@ -1,0 +1,112 @@
+*{
+    margin:0;
+    padding: 0;
+}
+html, body {
+    height: 100%;
+    
+}
+header {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+video {
+    position: absolute;
+    top: 0 ;
+    left: 0 ;
+    display: block;
+    width: 100%;
+    z-index: -1000;
+    
+}
+.conteudo{
+    display: flex;
+    position:relative;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: baseline;
+    z-index: -900;
+
+}
+.conteudo {
+    font-size: 60px;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    z-index: -900;
+}
+.texto{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 60px;
+
+}
+.texto {
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    z-index: -900;
+}
+
+.texto2{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 60px;
+
+}
+.texto2 {
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    z-index: -900;
+}
+.texto4{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 60px;
+
+}
+.texto4 {
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+.img1{
+
+    justify-content: center;
+    align-items: baseline;
+    border: 5px solid white;
+    margin-top: 70px;
+
+    
+}
+.button{
+    margin-top: 5px;
+    size: 200px;
+    text-align: center;
+
+}
+
+.linkam{
+    padding: 0;
+}
+.texto3{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 60px;
+
+}
+.texto3 {
+    font-size: 25px;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    z-index: -900;
+}
+
